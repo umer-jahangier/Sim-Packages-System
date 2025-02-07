@@ -48,7 +48,9 @@ Sim Packages System/
 3. Exclude all C++ files except Main.cpp from build.\
    (Right click on files in Explorer Menu of VS and Exclude from the Project)
 
-4. Build and run the project.
+5. Build and run the project.
+   
+6. For Easy mode, just compile and run Single File Version code.
 
 ## How to Use
 
